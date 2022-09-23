@@ -1,2 +1,1 @@
-# Python
-√ñvningar p√• pyton spr√•k 
+"hÑr Ñr mit readme" =
