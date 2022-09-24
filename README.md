@@ -1,5 +1,9 @@
  
 "här är mit readme"
 =======
-"här är mit readme" 
+python övning
+
+-member
+-type conversion 
+
 
