@@ -3,7 +3,8 @@
 =======
 python övning
 
--member
+-member 
+
 -type conversion 
 
 
